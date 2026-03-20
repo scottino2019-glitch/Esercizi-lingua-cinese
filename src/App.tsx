@@ -95,7 +95,7 @@ export default function App() {
                   Impara il Cinese,<br />un passo alla volta.
                 </h1>
                 <p className="text-stone-500 max-w-md mx-auto text-lg">
-                  Esercizi personalizzati di ascolto, traduzione e costruzione di frasi potenziati dall'IA.
+                  Esercizi personalizzati di ascolto, traduzione e costruzione di frasi 
                 </p>
               </div>
 
