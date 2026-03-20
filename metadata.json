@@ -1,0 +1,5 @@
+{
+  "name": "SinoLearn - Impara il Cinese",
+  "description": "Un'applicazione interattiva per imparare il cinese con esercizi di ascolto, traduzione e costruzione di frasi.",
+  "requestFramePermissions": ["microphone"]
+}
