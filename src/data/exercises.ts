@@ -246,7 +246,7 @@ export const ALL_EXERCISES: Exercise[] = [
     chinese: '你叫什么名字？',
     pinyin: 'nǐ jiào shénme míngzi?',
     italian: 'come ti chiami?',
-    scrambled: ['你', '叫', '什么', '名字?']
+    scrambled: ['你', '叫', '什么', '名字', '？']
   },
   {
     type: 'sentence-building',
